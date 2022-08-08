@@ -1,0 +1,22 @@
+vgg16-5stage: D:\DataSet\pretrain_model\pytorch\vgg16-397923af.pth
+dataset:
+  BSDS: D:\DataSet\HED-BSDS
+  BSDS-VOC: D:\DataSet
+  PASCAL-Context: D:\DataSet\PASCAL_Context
+  PASCAL-VOC12: D:\DataSet\VOCdevkit
+  NYUD-V2: D:\DataSet\NYUD
+
+batch_size: 8
+max_iter: 4
+decay_rate: 0.1
+decay_steps: 2
+
+# optimization Adam or SGD
+method: SGD
+lr: 1.0e-2
+momentum: 0.9
+weight_decay: 2.0e-4
+
+# save
+sava_epoch: 2
+save_name: model.pth
