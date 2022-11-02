@@ -15,11 +15,11 @@ If you are using the code/model/data provided here in a publication, please cons
 }
 ```
 ## Get Start
-1、Download our code.
-2、prepare the dataset.
-3、Configure the environment.
-4、If Windows system, please modify the dataset in cfgs.yaml.
-5、Run the "train.py".
+1、Download our code.<br/>
+2、prepare the dataset.<br/>
+3、Configure the environment.<br/>
+4、If Windows system, please modify the dataset in cfgs.yaml.<br/>
+5、Run the "train.py".<br/>
 
 文件夹中包含模型文件（model.py）
 训练用文件（train.py）
