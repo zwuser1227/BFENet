@@ -32,7 +32,9 @@ testing files (test.py) and other related files (cfgs ...).
 
 BSDS_test和NYUD_test文件夹中包含本文模型在BSDS500数据集合NYUD数据集上的单尺度、多尺度测试结果。
 The folders of BSDS_test and NYUD_test contain the single-scale and multi-scale test results of this model on NYUD data set of BSDS500 yuan data set.
-
+## Model Weights
+链接：https://pan.baidu.com/s/1ZcBDmUkboCGqYoF5dYvlFw 
+提取码：uh6h
 
 ## Datsets
 We use the links in [RCF](https://github.com/yun-liu/rcf) Repository (really thanks for that).
